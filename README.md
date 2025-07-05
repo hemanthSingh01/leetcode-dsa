@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0012-integer-to-roman](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
