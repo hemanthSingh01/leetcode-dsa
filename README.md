@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0008-string-to-integer-atoi](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
