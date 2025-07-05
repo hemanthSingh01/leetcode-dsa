@@ -57,6 +57,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0061-rotate-list](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
