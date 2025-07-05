@@ -24,6 +24,7 @@
 | [0053-maximum-subarray](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0016-3sum-closest](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0056-merge-intervals) |
 ## Stack
 |  |
 | ------- |
