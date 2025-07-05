@@ -19,6 +19,7 @@
 | [0036-valid-sudoku](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
