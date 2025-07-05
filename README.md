@@ -84,6 +84,7 @@
 | [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0020-valid-parentheses](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0071-simplify-path) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
