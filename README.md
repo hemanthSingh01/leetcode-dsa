@@ -28,6 +28,7 @@
 | [0057-insert-interval](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
