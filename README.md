@@ -20,6 +20,7 @@
 | [0041-first-missing-positive](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0020-valid-parentheses](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0015-3sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
