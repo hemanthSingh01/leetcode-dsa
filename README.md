@@ -21,6 +21,7 @@
 | [0042-trapping-rain-water](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
