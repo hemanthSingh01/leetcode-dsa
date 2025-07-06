@@ -36,6 +36,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 ## Sliding Window
 |  |
 | ------- |
