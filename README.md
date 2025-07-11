@@ -36,6 +36,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@
 | [0069-sqrtx](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
