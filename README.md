@@ -50,6 +50,7 @@
 | [0049-group-anagrams](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 ## Linked List
 |  |
@@ -76,6 +77,7 @@
 | [0066-plus-one](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0069-sqrtx) |
+| [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0056-merge-intervals](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 ## Stack
 |  |
 | ------- |
@@ -254,4 +257,12 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
