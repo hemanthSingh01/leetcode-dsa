@@ -38,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Recursion
 |  |
 | ------- |
