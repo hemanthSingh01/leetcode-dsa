@@ -53,6 +53,7 @@
 | [0076-minimum-window-substring](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0076-minimum-window-substring](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0647-palindromic-substrings](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Enumeration
 |  |
 | ------- |
