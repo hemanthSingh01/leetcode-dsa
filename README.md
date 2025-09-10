@@ -109,6 +109,7 @@
 | [0076-minimum-window-substring](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0647-palindromic-substrings](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
+| [1250-longest-common-subsequence](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Sliding Window
 |  |
@@ -162,6 +163,7 @@
 | [0055-jump-game](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
