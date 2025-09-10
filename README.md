@@ -106,6 +106,7 @@
 | [0058-length-of-last-word](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0647-palindromic-substrings](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
@@ -162,6 +163,7 @@
 | [0053-maximum-subarray](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 ## Greedy
