@@ -112,6 +112,7 @@
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [1250-longest-common-subsequence](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2887-sort-vowels-in-a-string](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0075-sort-colors](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
