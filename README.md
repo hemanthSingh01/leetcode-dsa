@@ -37,6 +37,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0322-coin-change) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
@@ -165,6 +166,7 @@
 | [0055-jump-game](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 ## Greedy
@@ -271,6 +273,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0322-coin-change](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0322-coin-change) |
 ## Counting
 |  |
 | ------- |
