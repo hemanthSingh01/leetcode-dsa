@@ -80,6 +80,7 @@
 | [0066-plus-one](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -165,6 +166,7 @@
 | [0053-maximum-subarray](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0647-palindromic-substrings) |
@@ -283,4 +285,8 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
