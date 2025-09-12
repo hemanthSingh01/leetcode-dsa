@@ -77,6 +77,7 @@
 | [0013-roman-to-integer](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0069-sqrtx) |
@@ -166,6 +167,7 @@
 | [0042-trapping-rain-water](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0072-edit-distance) |
@@ -292,4 +294,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
