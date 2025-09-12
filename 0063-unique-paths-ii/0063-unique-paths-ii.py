@@ -10,8 +10,6 @@ class Solution:
             for j in range(c):
                 if obstacleGrid[i][j]==1:
                     obstacles.add((i,j))
-        if r==1 and len(obstacles)>0:
-            return 0
         for i in range(r):
             if (i,0) in obstacles:
                 break
