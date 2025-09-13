@@ -56,6 +56,7 @@
 | [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [1250-longest-common-subsequence](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1250-longest-common-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2887-sort-vowels-in-a-string](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
