@@ -37,6 +37,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0322-coin-change) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
@@ -175,6 +176,7 @@
 | [0064-minimum-path-sum](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [1236-n-th-tribonacci-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1236-n-th-tribonacci-number) |
