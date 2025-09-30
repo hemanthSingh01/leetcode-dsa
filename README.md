@@ -44,6 +44,7 @@
 | [0322-coin-change](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0322-coin-change) |
 | [0926-find-and-replace-pattern](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0054-spiral-matrix](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0067-add-binary) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -316,4 +319,5 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hemanthSingh01/leetcode-dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
